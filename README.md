@@ -1,1 +1,1 @@
-# odin-recipes
+On this project, i make a basic website about basic recipes.
